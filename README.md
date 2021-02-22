@@ -11,7 +11,7 @@ PDF file available.
 2. Face Mask Recognition Project 
 
 Scraped images to create a database (Selenium, BeautyfulSoup) and augmented it			        
-Built a CNN model with Keras to identify if a mask is worn and tested it in real time (CV2), achieved a 78% accuracy
+Built a CNN model with Keras to identify if a mask is worn and tested it in real time (CV2).
 
 3. Sales Growth
 
