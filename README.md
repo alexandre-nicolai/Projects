@@ -8,10 +8,12 @@ Used NLP tools to separate signal from noise and create the sentiment in time se
 
 PDF file available. 
 
-2. Face Mask Recognition Project 
+2. Face Mask Recognition - Group Project 
 
 Scraped images to create a database (Selenium, BeautyfulSoup) and augmented it			        
 Built a CNN model with Keras to identify if a mask is worn and tested it in real time (CV2).
+
+https://medium.com/swlh/building-a-face-mask-recognition-system-with-tensorflow-ba89fcef3c6f
 
 3. Sales Growth
 
